@@ -7,6 +7,8 @@
 
 <div>
   <a href="https://github.com/GustavoSantiago81">
-<imgheight="180em"src="https://githubreadmestats.vercel.app/apiusername=GustavoSantiago81&show_icons=true&theme=radical&nclude_all_commits=true&count_private=true."/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantiago81&show_icons=true&theme=radical&include_all_commits=true&count_private=true."/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantiago81&layout=compact&langs_count=7&theme=radical&include_all_commits=true&count_private=true."/>
 </div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
