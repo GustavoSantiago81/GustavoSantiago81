@@ -11,4 +11,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantiago81&layout=compact&langs_count=7&theme=radical&include_all_commits=true&count_private=true."/>
 </div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
