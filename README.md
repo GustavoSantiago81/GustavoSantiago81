@@ -2,6 +2,13 @@
 <a href="https://github.com/GustavoSantiago81">
     <img src="https://readme-typing-svg.demolab.com?font=Italic&size=18&duration=2000&pause=100&color=8A1900FF&multiline=true&width=500&height=80&lines=Gustavo+Santiago+Pereira;Engenheiro Eletrônico+%7C+Desenvolvedor+WEB+%7C+ Estudante" alt="Typing SVG" />
 </a>
+  
+  </p>
+  <br>
+  
+  <a href="https://www.linkedin.com/in/gustavo-santiago-pereira-2490b0184/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 
 ### Bem-vinde! Sou Gustavo Santiago 👋
 
