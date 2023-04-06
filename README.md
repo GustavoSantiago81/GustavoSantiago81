@@ -17,6 +17,7 @@
 - Estudando Java, HTML, C, C++, JavaScript, MySQL
 - Pronouns: Ele/Dele
 
+<hr>
 <div>
   <a href="https://github.com/GustavoSantiago81">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantiago81&show_icons=true&theme=dark&include_all_commits=true&count_private=true."/>
