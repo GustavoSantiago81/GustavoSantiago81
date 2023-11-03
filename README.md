@@ -4,12 +4,16 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <hr>
+
+## ⚙ &nbsp;GitHub Analytics
 <div>
   <a href="https://github.com/GustavoSantiago81">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantiago81&show_icons=true&theme=dark&include_all_commits=true&count_private=true."/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantiago81&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true."/>
+      <img width="500em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantiago81&show_icons=true&theme=darcula&include_all_commits=true&count_private=true."/>
+      <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantiago81&layout=compact&langs_count=16&theme=darcula&include_all_commits=true&count_private=true."/>
+  </a>
 </div>
+
+## Tecnologias que uso no meu dia
 
 <h3>Backend</h3>
 
@@ -18,8 +22,6 @@
     <img align="center" alt="rafaelq80-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img align="center" alt="rafaelq80-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
     <img align="center" alt="rafaelq80-Node" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"/>
-    <img align="center" alt="rafaelq80-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-    <img align="center" alt="rafaelq80-Golang" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <div> 
 
 <h3>Banco de Dados</h3>
