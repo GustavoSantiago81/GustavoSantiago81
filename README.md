@@ -1,22 +1,8 @@
-  <p align="center">
-<a href="https://github.com/GustavoSantiago81">
-    <img src="https://readme-typing-svg.demolab.com?font=Italic&size=18&duration=2000&pause=100&color=8A1900FF&multiline=true&width=500&height=80&lines=Gustavo+Santiago+Pereira;Engenheiro Eletrônico+%7C+Desenvolvedor+WEB+%7C+ Estudante" alt="Typing SVG" />
-</a>
-  
-  </p>
-  <br>
-  
-  <a href="https://www.linkedin.com/in/gustavo-santiago-pereira-2490b0184/">
+### Gustavo Santiago Pereira👋
+
+<a href="https://www.linkedin.com/in/gustavo-santiago-pereira-2490b0184/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-
-### Bem-vinde! Sou Gustavo Santiago 👋
-
-
-- Estou em busca de primeira oportunidade profissional em Desenvolvimento WEB Full-stack
-- Estudando Java, HTML, C, C++, JavaScript, MySQL
-- Pronouns: Ele/Dele
-
 <hr>
 <div>
   <a href="https://github.com/GustavoSantiago81">
@@ -25,15 +11,37 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantiago81&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true."/>
 </div>
 
+<h3>Backend</h3>
 
-Unsigned long previousmillis = millis();
+<div style="display: inline_block"><br>
+    <img align="center" alt="rafaelq80-Java" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg"/>
+    <img align="center" alt="rafaelq80-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img align="center" alt="rafaelq80-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
+    <img align="center" alt="rafaelq80-Node" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"/>
+    <img align="center" alt="rafaelq80-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+    <img align="center" alt="rafaelq80-Golang" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<div> 
 
-If ((millis() - previousmillis)&lt;1000)
-{
-Breath();
-}
+<h3>Banco de Dados</h3>
 
-If ((millis() - previousmillis)&gt;1000)
-{
-previousmillis = millis();
-}
+<div style="display: inline_block"><br>
+    <img align="center" alt="rafaelq80-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
+    <img align="center" alt="rafaelq80-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<div> 
+
+<h3>Frontend</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="rafaelq80-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="rafaelq80-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="rafaelq80-JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
+     <img align="center" alt="rafaelq80-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
+    <img align="center" alt="rafaelq80-React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg">
+<div> 
+
+<h3>DEVOPS</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="rafaelq80-Docker" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg">
+    <img align="center" alt="rafaelq80-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg">
+<div> 
